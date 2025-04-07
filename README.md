@@ -18,9 +18,9 @@ This project is designed **to analyze and derive insights from Zomato's restaura
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Key Performance Indicators (KPIs)](#KeyPerformanceIndicators(KPIs))
-- [Analysis Details](#analysisdetails)
-- [Observations and Strategy Implementation](#ObservationsandStrategyImplementation)
+- [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
+- [Analysis Details](#analysis-details)
+- [Observations and Strategy Implementation](#observations-and-strategy-implementation)
 - [Conclusion](#conclusion)
 
 ## Introduction
