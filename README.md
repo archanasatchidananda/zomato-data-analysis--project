@@ -32,36 +32,31 @@ Through meticulous data analysis, you’ll explore customer preferences, restaur
 
 This project involves analyzing Zomato's restaurant and customer data to derive insights through the following KPIs:
 
-1. **Restaurant Count by Location:**
-   - Calculate the number of restaurants based on city and country.
 
-2. **Restaurant Opening Analysis:**
-   - Determine the number of restaurants opening by year, quarter, and month.
-
-3. **Restaurant Ratings Distribution:**
-   - Count the number of restaurants grouped by average ratings.
-
-4. **Price Buckets:**
-   - Create reasonable price buckets based on average price and calculate how many restaurants fall into each bucket.
-
-5. **Table Booking Percentage:**
-   - Calculate the percentage of restaurants offering table booking.
-
-6. **Online Delivery Percentage:**
-   - Calculate the percentage of restaurants offering online delivery.
-
-7. **Cuisine & City Analysis:**
-   - Develop charts to explore the distribution of cuisines, ratings, and restaurant trends by city.
-
-8. **Custom KPI Exploration:**
-    - Introduce new KPIs based on data analysis and create meaningful visualizations for them.
+ - Calculate the number of restaurants based on city and country.
+ - Determine the number of restaurants opening by year, quarter, and month.
+ - Count the number of restaurants grouped by average ratings.   
+ - Create reasonable price buckets based on average price and calculate how many restaurants fall into each bucket.
+ - Calculate the percentage of restaurants offering table booking.
+ - Calculate the percentage of restaurants offering online delivery.
+ - Develop charts to explore the distribution of cuisines, ratings, and restaurant trends by city.
+ - Introduce new KPIs based on data analysis and create meaningful visualizations for them.
 
 ## Analysis Details
 
-1. **Average Cost Analysis**
-2. **Restaurant Count Analysis**
-3. **Service Availability Analysis**
-4. **Popularity Analysis**
+1. **Average Cost Analysis:**
+
+   The dataset reveals significant disparities in the average meal costs across different countries. Notably, Singapore and the Philippines stand out with markedly higher average costs of two —155.8 USD and 117.3 USD respectively—suggesting that these markets might face higher operating expenses, premium pricing strategies, or elevated cost structures overall. In contrast, countries such as Sri Lanka, India, and Turkey exhibit considerably lower costs, with average costs of two of 8.1 USD, 7.5 USD, and 4.2 USD respectively. These figures reflect the varying economic contexts and consumer purchasing power across regions.
+   
+3. **Restaurant Count Analysis**
+
+
+
+4. **Service Availability Analysis**
+
+
+5. **Popularity Analysis**
+
 
 ## Observations and Strategy Implementation
 
