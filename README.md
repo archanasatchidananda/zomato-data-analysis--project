@@ -61,6 +61,8 @@ This project involves analyzing Zomato's restaurant and customer data to derive 
 
     Complementing these geographic insights, our trend analysis shows that the annual number of new restaurant openings has fluctuated over the years, with notable peaks in 2011 and 2018 registering 1,089 and 1,102 openings respectively, highlighting cyclical bursts of market expansion driven by economic factors or promotional cycles
 
+![image](https://github.com/user-attachments/assets/0b2757b4-ebd1-4fb4-9b2d-9ade4fb38c47)
+
     
 5. **Service Availability Analysis**
 
