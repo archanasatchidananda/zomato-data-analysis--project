@@ -18,6 +18,7 @@ This project is designed **to analyze and derive insights from Zomato's restaura
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Tools](#tools)
 - [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
 - [Analysis Details](#analysis-details)
 - [Observations and Strategy Implementation](#observations-and-strategy-implementation)
@@ -28,6 +29,12 @@ Zomato Restaurant Analysis project initiative dives deep into Zomato's rich data
 
 Through meticulous data analysis, you’ll explore customer preferences, restaurant ratings, and market opportunities. Interactive dashboards created with Tableau and Power BI will transform raw data into clear, actionable insights, empowering users to understand and capitalize on the dynamics of this competitive sector.
 
+## Tools
+- Excel
+- Power BI
+- Tableau
+- MySql
+  
 ## Key Performance Indicators (KPIs)
 
 This project involves analyzing Zomato's restaurant and customer data to derive insights through the following KPIs:
@@ -50,12 +57,16 @@ This project involves analyzing Zomato's restaurant and customer data to derive 
    
 3. **Restaurant Count Analysis**
 
+   India leads robustly with 8,652 restaurants, underscoring deep market penetration and fierce competition, while the United States holds a moderate position with 434 establishments; niche markets such as Sri Lanka, Qatar, and Singapore each have 20 restaurants—a figure that may either indicate early digital adoption or a targeted market segment—and Canada, with its very low count of 4, suggests potential data gaps or an underdeveloped sector.
 
+    Complementing these geographic insights, our trend analysis shows that the annual number of new restaurant openings has fluctuated over the years, with notable peaks in 2011 and 2018 registering 1,089 and 1,102 openings respectively, highlighting cyclical bursts of market expansion driven by economic factors or promotional cycles
 
-4. **Service Availability Analysis**
+    
+5. **Service Availability Analysis**
 
+     
 
-5. **Popularity Analysis**
+6. **Popularity Analysis**
 
 
 ## Observations and Strategy Implementation
